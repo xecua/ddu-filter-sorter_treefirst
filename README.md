@@ -14,7 +14,7 @@ Mainly intended to be used with [ddu-ui-filer](https://github.com/Shougo/ddu-ui-
 call ddu#custom#patch_global(#{
 \   sourceOptions: #{
 \     file: #{
-\       sorters: ['sorter_filetype']
+\       sorters: ['sorter_treefirst']
 \     }
 \   }
 \ })
